@@ -66,9 +66,7 @@ python student_grades_model.py
 ## 📈 可视化输出
 
 运行程序后自动生成 **`学生成绩预测系统_综合分析图.png`**，包含：
-![对抗样本对比图](<img width="4761" height="3429" alt="学生成绩预测系统_综合分析图" src="https://github.com/user-attachments/assets/9c9ca649-08fa-402c-b1d2-5beb1b5f51c2" />
-.png)
-
+-![对抗样本对比图](<img width="4761" height="3429" alt="学生成绩预测系统_综合分析图" src="https://github.com/user-attachments/assets/9c9ca649-08fa-402c-b1d2-5beb1b5f51c2" />)
 - 预测 vs 实际散点图（含 R² 和 MAE 标注）
 - 预测误差分布直方图
 - 特征重要性柱状图
