@@ -66,8 +66,7 @@ python student_grades_model.py
 ## 📈 可视化输出
 
 运行程序后自动生成 **`学生成绩预测系统_综合分析图.png`**
-![对抗样本对比图](<img width="4761" height="3429" alt="学生成绩预测系统_综合分析图" src="https://github.com/user-attachments/assets/e0fe5fa7-ff1e-462b-88c9-20cdc7f73cf4" />
-)
+![学生成绩预测系统综合分析图](学生成绩预测系统_综合分析图.png)
 
   包含:
   
