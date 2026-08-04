@@ -67,7 +67,7 @@ python student_grades_model.py
 
 运行程序后自动生成 **`学生成绩预测系统_综合分析图.png`**
 
-<img src="学生成绩预测系统_综合分析图.png" width="850">
+<img src="学生成绩预测系统_综合分析图.png" width="700">
 
   包含:
   
